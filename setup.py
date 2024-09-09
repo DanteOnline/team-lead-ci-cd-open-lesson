@@ -34,7 +34,7 @@ def get_value_from_package_info(line, value, old_value):
     return None
 
 
-PACKAGE_NAME = "otus_open_lesson"
+PACKAGE_NAME = "say_something"
 
 PROJECT_URLS = {
     'Source': 'https://github.com/danteonline/team-lead-ci-cd-open-lesson',
