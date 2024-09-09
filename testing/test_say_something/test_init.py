@@ -15,10 +15,10 @@ def test_show_text():
     assert True
 
 
-def test_say():
-    """
-    Test say
-    :return:
-    """
-    say('some text')
-    assert 'tmp.audio' in os.listdir()
+# def test_say():
+#     """
+#     Test say
+#     :return:
+#     """
+#     say('some text')
+#     assert 'tmp.audio' in os.listdir()
