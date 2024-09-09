@@ -1,13 +1,13 @@
 """
 Main module
 """
-from say_something import show_text
+from say_something import show_text, say
 
 
 while True:
     text = input()
     if text:
         show_text(text)
-        #say(text)
+        say(text)
     else:
         break
