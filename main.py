@@ -1,3 +1,6 @@
+"""
+Main module
+"""
 from say_something import show_text
 
 
