@@ -73,7 +73,8 @@ setup(
 
     include_package_data=True,
     license="MIT",
-    description="Python package code and GitHub actions examples for OTUS open lesson for Team-Lead learning course",
+    description="Python package code and GitHub actions examples for "
+                "OTUS open lesson for Team-Lead learning course",
     long_description=read("README.md"),
     long_description_content_type="text/markdown",
     url="https://github.com/danteonline/team-lead-ci-cd-open-lesson",
